@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+Pillow
+streamlit
+requests
+scikit-learn
+matplotlib
